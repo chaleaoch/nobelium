@@ -11,7 +11,7 @@ const Tags = ({ tags, currentTag }) => {
             <Link key={key} href={selected ? '/search' : `/tag/${encodeURIComponent(key)}`}>
               <a>
                 <li
-                  style="margin-top:5px;margin-left:5px;"
+                  style={`margin-top:5px;margin-left:5px;`}
                   className={`mr-3 py-2 font-medium border px-4 whitespace-nowrap dark:text-gray-300 ${
                     selected
                       ? 'text-white bg-black border-black dark:bg-gray-600 dark:border-gray-600'
