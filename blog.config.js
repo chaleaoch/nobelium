@@ -40,8 +40,8 @@ const BLOG = {
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: 'https://github.com/chaleaoch/CDN', // The repository of store comments
-      owner: '',
-      admin: [],
+      owner: 'chaleaoch@gmail.com',
+      admin: ['chaleaoch@gmail.com'],
       clientID: '24b4575055e91aab7a62',
       clientSecret: '7666c9a8d9a55cb8c8a9b3dc272a8046ab72f153',
       distractionFreeMode: false
