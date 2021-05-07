@@ -39,9 +39,9 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'https://github.com/chaleaoch/CDN', // The repository of store comments
-      owner: 'chaleaoch@gmail.com',
-      admin: ['chaleaoch@gmail.com'],
+      repo: 'https://github.com/chaleaoch/CDN/', // The repository of store comments
+      owner: 'chaleaoch',
+      admin: ['chaleaoch'],
       clientID: '24b4575055e91aab7a62',
       clientSecret: '7666c9a8d9a55cb8c8a9b3dc272a8046ab72f153',
       distractionFreeMode: false
