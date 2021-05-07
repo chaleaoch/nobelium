@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'https://github.com/chaleaoch/CDN/'
+      repo: 'chaleaoch/CDN'
     },
     cusdisConfig: {
       appId: '', // data-app-id
