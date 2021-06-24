@@ -69,3 +69,12 @@ pre[class*='language-'] {
 .notion-collection-row {
   @apply hidden;
 }
+
+.utterances {
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+}
